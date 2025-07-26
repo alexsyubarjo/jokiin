@@ -1,0 +1,42 @@
+
+  ---------- Welcome Microjob Laravel 10.8 -------------
+
+
+INSTALASI
+
+1. Extract File Project ke webserver 
+2. buat database dengan nama "db_microjob" atau sesuaikan dengan project Anda
+3. setting database server di file .env
+
+	APP_URL=http://localhost:8000
+
+	DB_DATABASE=db_microjob
+	DB_USERNAME=root
+	DB_PASSWORD=
+
+	Sesuaikan dengan pengaturan server Anda.
+
+4. install composer :
+	- jika belum install composer silahkan install terlebih dahulu
+	- jika sudah install masuk ke folder projek anda dan masuk ke terminal command prompt / cmd atau git bash
+	- ketik sebagai berikut : 
+		- composer update
+		- composer dump-autoload
+		- php artisan migrate
+		- php artisan serve
+	
+5. buka url di browser dengan alamat project Anda
+6. gunakan account default
+	Halaman Login Admin : http://localhost:8000/admin/login
+	- email 	: admin@gmail.com
+	- password	: admin
+
+7. jika ingin mendapatkan update secara berkala di github silahkan hubungi kontak dibawah.
+
+TERIMAKASIH
+Salam Hangat
+Dahry
+
+
+Whatsapp
+085600899245
